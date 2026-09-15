@@ -10,3 +10,6 @@
 *.user
 *.userprefs
 .DS_Store
+/*_BurstDebugInformation_DoNotShip/
+/*_BackUpThisFolder_ButDontShipItWithYourGame/
+/*_BurstDebugInformation_DoNotShip/
