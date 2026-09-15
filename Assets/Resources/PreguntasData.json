@@ -1,0 +1,94 @@
+{
+  "niveles": [
+    {
+      "numeroNivel": 1,
+      "tituloNivel": "Nivel 1: Muy Fácil",
+      "puntosRequeridos": 1000,
+      "pistaActivaPorDefecto": true,
+      "preguntas": [
+        { "id": "n1_1", "pregunta": "Torre Eiffel", "pista": "Francia", "latitud": 48.8584, "longitud": 2.2945 },
+        { "id": "n1_2", "pregunta": "Estatua de la Libertad", "pista": "Estados Unidos", "latitud": 40.6892, "longitud": -74.0445 },
+        { "id": "n1_3", "pregunta": "Gran Pirámide de Guiza", "pista": "Egipto", "latitud": 29.9792, "longitud": 31.1342 },
+        { "id": "n1_4", "pregunta": "Coliseo de Roma", "pista": "Italia", "latitud": 41.8902, "longitud": 12.4922 },
+        { "id": "n1_5", "pregunta": "Big Ben", "pista": "Reino Unido", "latitud": 51.5007, "longitud": -0.1246 },
+        { "id": "n1_6", "pregunta": "Sagrada Familia", "pista": "España", "latitud": 41.4036, "longitud": 2.1744 },
+        { "id": "n1_7", "pregunta": "Muralla China", "pista": "China", "latitud": 40.4319, "longitud": 116.5704 },
+        { "id": "n1_8", "pregunta": "Machu Picchu", "pista": "Perú", "latitud": -13.1631, "longitud": -72.5450 },
+        { "id": "n1_9", "pregunta": "Taj Mahal", "pista": "India", "latitud": 27.1751, "longitud": 78.0421 },
+        { "id": "n1_10", "pregunta": "Cristo Redentor", "pista": "Brasil", "latitud": -22.9519, "longitud": -43.2105 }
+      ]
+    },
+    {
+      "numeroNivel": 2,
+      "tituloNivel": "Nivel 2: Medio",
+      "puntosRequeridos": 1100,
+      "pistaActivaPorDefecto": true,
+      "preguntas": [
+        { "id": "n2_1", "pregunta": "Ópera de Sídney", "pista": "Australia", "latitud": -33.8568, "longitud": 151.2153 },
+        { "id": "n2_2", "pregunta": "Chichén Itzá", "pista": "México", "latitud": 20.6843, "longitud": -88.5678 },
+        { "id": "n2_3", "pregunta": "Petra", "pista": "Jordania", "latitud": 30.3285, "longitud": 35.4444 },
+        { "id": "n2_4", "pregunta": "Acrópolis de Atenas", "pista": "Grecia", "latitud": 37.9715, "longitud": 23.7257 },
+        { "id": "n2_5", "pregunta": "Puerta de Brandeburgo", "pista": "Alemania", "latitud": 52.5163, "longitud": 13.3777 },
+        { "id": "n2_6", "pregunta": "Monte Fuji", "pista": "Japón", "latitud": 35.3606, "longitud": 138.7278 },
+        { "id": "n2_7", "pregunta": "Cataratas del Niágara", "pista": "Canadá / EE.UU.", "latitud": 43.0962, "longitud": -79.0377 },
+        { "id": "n2_8", "pregunta": "Alhambra de Granada", "pista": "España", "latitud": 37.1773, "longitud": -3.5898 },
+        { "id": "n2_9", "pregunta": "Kiyomizu-dera (Kioto)", "pista": "Japón", "latitud": 34.9949, "longitud": 135.7850 },
+        { "id": "n2_10", "pregunta": "Torre de Pisa", "pista": "Italia", "latitud": 43.7230, "longitud": 10.3966 }
+      ]
+    },
+    {
+      "numeroNivel": 3,
+      "tituloNivel": "Nivel 3: Complicadete",
+      "puntosRequeridos": 1200,
+      "pistaActivaPorDefecto": false,
+      "preguntas": [
+        { "id": "n3_1", "pregunta": "Gran Cañón del Colorado", "pista": "Estados Unidos", "latitud": 36.1069, "longitud": -112.1129 },
+        { "id": "n3_2", "pregunta": "Moáis de la Isla de Pascua", "pista": "Chile", "latitud": -27.1127, "longitud": -109.3497 },
+        { "id": "n3_3", "pregunta": " Angkor Wat", "pista": "Camboya", "latitud": 13.4125, "longitud": 103.8670 },
+        { "id": "n3_4", "pregunta": "Cataratas Victoria", "pista": "Zambia / Zimbabue", "latitud": -17.9244, "longitud": 25.8572 },
+        { "id": "n3_5", "pregunta": "Mezquita Azul (Estambul)", "pista": "Turquía", "latitud": 41.0054, "longitud": 28.9768 },
+        { "id": "n3_6", "pregunta": "Catedral de San Basilio", "pista": "Rusia", "latitud": 55.7525, "longitud": 37.6231 },
+        { "id": "n3_7", "pregunta": "Salar de Uyuni", "pista": "Bolivia", "latitud": -20.1338, "longitud": -67.4891 },
+        { "id": "n3_8", "pregunta": "Stonehenge", "pista": "Reino Unido", "latitud": 51.1789, "longitud": -1.8262 },
+        { "id": "n3_9", "pregunta": "Monte Everest", "pista": "Nepal / China", "latitud": 27.9881, "longitud": 86.9250 },
+        { "id": "n3_10", "pregunta": "Bora Bora", "pista": "Polinesia Francesa", "latitud": -16.5004, "longitud": -151.7415 }
+      ]
+    },
+    {
+      "numeroNivel": 4,
+      "tituloNivel": "Nivel 4: Difícil",
+      "puntosRequeridos": 1300,
+      "pistaActivaPorDefecto": false,
+      "preguntas": [
+        { "id": "n4_1", "pregunta": "Isla de Santorini", "pista": "Grecia", "latitud": 36.3932, "longitud": 25.4615 },
+        { "id": "n4_2", "pregunta": "Volcán Kilauea", "pista": "Estados Unidos (Hawái)", "latitud": 19.4069, "longitud": -155.2834 },
+        { "id": "n4_3", "pregunta": "Tombuctú", "pista": "Malí", "latitud": 16.7666, "longitud": -3.0026 },
+        { "id": "n4_4", "pregunta": "Lhasa (Palacio de Potala)", "pista": "Tíbet / China", "latitud": 29.6578, "longitud": 91.1170 },
+        { "id": "n4_5", "pregunta": "Faro de Alejandría (Sitio)", "pista": "Egipto", "latitud": 31.2138, "longitud": 29.8856 },
+        { "id": "n4_6", "pregunta": "Cárpatos (Castillo Bran)", "pista": "Rumanía", "latitud": 45.5149, "longitud": 25.3672 },
+        { "id": "n4_7", "pregunta": "Isla Sentinel del Norte", "pista": "India", "latitud": 11.5504, "longitud": 92.2335 },
+        { "id": "n4_8", "pregunta": "Cataratas del Iguazú", "pista": "Argentina / Brasil", "latitud": -25.6953, "longitud": -54.4367 },
+        { "id": "n4_9", "pregunta": "Lago Baikal", "pista": "Rusia", "latitud": 53.5587, "longitud": 108.1650 },
+        { "id": "n4_10", "pregunta": "Templo de Borobudur", "pista": "Indonesia", "latitud": -7.6079, "longitud": 110.2038 }
+      ]
+    },
+    {
+      "numeroNivel": 5,
+      "tituloNivel": "Nivel 5: Muy Difícil",
+      "puntosRequeridos": 1400,
+      "pistaActivaPorDefecto": false,
+      "preguntas": [
+        { "id": "n5_1", "pregunta": "Atolón Bikini", "pista": "Islas Marshall", "latitud": 11.6000, "longitud": 165.3833 },
+        { "id": "n5_2", "pregunta": "Isla Tristán de Acuña", "pista": "Reino Unido (Atlántico Sur)", "latitud": -37.1052, "longitud": -12.2777 },
+        { "id": "n5_3", "pregunta": "Estación Amundsen-Scott", "pista": "Polo Sur / Antártida", "latitud": -90.0000, "longitud": 0.0000 },
+        { "id": "n5_4", "pregunta": "Isla Bouvet", "pista": "Noruega (Atlántico Sur)", "latitud": -54.4208, "longitud": 3.3833 },
+        { "id": "n5_5", "pregunta": "Svalbard (Semillero Mundial)", "pista": "Noruega", "latitud": 78.2358, "longitud": 15.4913 },
+        { "id": "n5_6", "pregunta": "Atolón de Palmyra", "pista": "Estados Unidos (Pacífico)", "latitud": 5.8885, "longitud": -162.0783 },
+        { "id": "n5_7", "pregunta": "Isla Pitcairn", "pista": "Territorio Británico de Ultramar", "latitud": -25.0667, "longitud": -130.1002 },
+        { "id": "n5_8", "pregunta": "Pozo de Kola (Superprofundo)", "pista": "Rusia", "latitud": 69.3804, "longitud": 30.6098 },
+        { "id": "n5_9", "pregunta": "Isla Diego García", "pista": "Océano Índico", "latitud": -7.3195, "longitud": 72.4228 },
+        { "id": "n5_10", "pregunta": "Punto Nemo (Polo de Inaccesibilidad)", "pista": "Océano Pacífico Sur", "latitud": -48.8767, "longitud": -123.3933 }
+      ]
+    }
+  ]
+}
